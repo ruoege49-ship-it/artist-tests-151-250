@@ -1,0 +1,508 @@
+{
+  "metric": "继续按已下载法典快照中的出现频次排序，排除已测前150位、同名规范写法和同括号账号别名。非网站热度榜。",
+  "ranking": [
+    {
+      "number": 151,
+      "artist": "gomzi",
+      "occurrences": 9
+    },
+    {
+      "number": 152,
+      "artist": "henreader",
+      "occurrences": 8
+    },
+    {
+      "number": 153,
+      "artist": "jima",
+      "occurrences": 8
+    },
+    {
+      "number": 154,
+      "artist": "maccha_(mochancc)",
+      "occurrences": 8
+    },
+    {
+      "number": 155,
+      "artist": "rei (sanbonzakura)",
+      "occurrences": 8
+    },
+    {
+      "number": 156,
+      "artist": "umehara_sei",
+      "occurrences": 8
+    },
+    {
+      "number": 157,
+      "artist": "waterkuma",
+      "occurrences": 8
+    },
+    {
+      "number": 158,
+      "artist": "sho_(sho_lwlw)",
+      "occurrences": 8
+    },
+    {
+      "number": 159,
+      "artist": "mochizuki kei",
+      "occurrences": 8
+    },
+    {
+      "number": 160,
+      "artist": "fuzichoco",
+      "occurrences": 8
+    },
+    {
+      "number": 161,
+      "artist": "machi_(machi0910)",
+      "occurrences": 8
+    },
+    {
+      "number": 162,
+      "artist": "ebifurya",
+      "occurrences": 8
+    },
+    {
+      "number": 163,
+      "artist": "xilmo",
+      "occurrences": 8
+    },
+    {
+      "number": 164,
+      "artist": "nekoshoko",
+      "occurrences": 8
+    },
+    {
+      "number": 165,
+      "artist": "esearu",
+      "occurrences": 8
+    },
+    {
+      "number": 166,
+      "artist": "fellatrix",
+      "occurrences": 8
+    },
+    {
+      "number": 167,
+      "artist": "haze_(7h4ze)",
+      "occurrences": 8
+    },
+    {
+      "number": 168,
+      "artist": "houtengeki",
+      "occurrences": 8
+    },
+    {
+      "number": 169,
+      "artist": "hyocorou",
+      "occurrences": 8
+    },
+    {
+      "number": 170,
+      "artist": "ikuchan kaoru",
+      "occurrences": 8
+    },
+    {
+      "number": 171,
+      "artist": "kele mimi",
+      "occurrences": 8
+    },
+    {
+      "number": 172,
+      "artist": "momoko (momopoco)",
+      "occurrences": 8
+    },
+    {
+      "number": 173,
+      "artist": "nueegochi",
+      "occurrences": 8
+    },
+    {
+      "number": 174,
+      "artist": "ru_zhai",
+      "occurrences": 8
+    },
+    {
+      "number": 175,
+      "artist": "sonao",
+      "occurrences": 8
+    },
+    {
+      "number": 176,
+      "artist": "takeda hiromitsu",
+      "occurrences": 8
+    },
+    {
+      "number": 177,
+      "artist": "taotao",
+      "occurrences": 8
+    },
+    {
+      "number": 178,
+      "artist": "tsurumi_kazane",
+      "occurrences": 8
+    },
+    {
+      "number": 179,
+      "artist": "yoya yogurt",
+      "occurrences": 8
+    },
+    {
+      "number": 180,
+      "artist": "cocoballking",
+      "occurrences": 8
+    },
+    {
+      "number": 181,
+      "artist": "loliconder",
+      "occurrences": 8
+    },
+    {
+      "number": 182,
+      "artist": "nao_(syn_eaa)",
+      "occurrences": 8
+    },
+    {
+      "number": 183,
+      "artist": "ruriri",
+      "occurrences": 8
+    },
+    {
+      "number": 184,
+      "artist": "shigure s",
+      "occurrences": 8
+    },
+    {
+      "number": 185,
+      "artist": "wada arco",
+      "occurrences": 8
+    },
+    {
+      "number": 186,
+      "artist": "xiangzi box",
+      "occurrences": 8
+    },
+    {
+      "number": 187,
+      "artist": "reagan_long",
+      "occurrences": 8
+    },
+    {
+      "number": 188,
+      "artist": "morotomi",
+      "occurrences": 8
+    },
+    {
+      "number": 189,
+      "artist": "takeda_hinata",
+      "occurrences": 8
+    },
+    {
+      "number": 190,
+      "artist": "sui_yamami",
+      "occurrences": 8
+    },
+    {
+      "number": 191,
+      "artist": "agoto",
+      "occurrences": 7
+    },
+    {
+      "number": 192,
+      "artist": "binggong_asylum",
+      "occurrences": 7
+    },
+    {
+      "number": 193,
+      "artist": "mameojitan",
+      "occurrences": 7
+    },
+    {
+      "number": 194,
+      "artist": "miratsu_(miratsu169)",
+      "occurrences": 7
+    },
+    {
+      "number": 195,
+      "artist": "morino hon",
+      "occurrences": 7
+    },
+    {
+      "number": 196,
+      "artist": "oharu-chan",
+      "occurrences": 7
+    },
+    {
+      "number": 197,
+      "artist": "toi8",
+      "occurrences": 7
+    },
+    {
+      "number": 198,
+      "artist": "ukai_saki",
+      "occurrences": 7
+    },
+    {
+      "number": 199,
+      "artist": "huashijw",
+      "occurrences": 7
+    },
+    {
+      "number": 200,
+      "artist": "void_0",
+      "occurrences": 7
+    },
+    {
+      "number": 201,
+      "artist": "laserflip",
+      "occurrences": 7
+    },
+    {
+      "number": 202,
+      "artist": "jyt",
+      "occurrences": 7
+    },
+    {
+      "number": 203,
+      "artist": "feipin zhanshi",
+      "occurrences": 7
+    },
+    {
+      "number": 204,
+      "artist": "smilesmile1312",
+      "occurrences": 7
+    },
+    {
+      "number": 205,
+      "artist": "0haribo0",
+      "occurrences": 7
+    },
+    {
+      "number": 206,
+      "artist": "au (d elete)",
+      "occurrences": 7
+    },
+    {
+      "number": 207,
+      "artist": "betabeet",
+      "occurrences": 7
+    },
+    {
+      "number": 208,
+      "artist": "chamchami",
+      "occurrences": 7
+    },
+    {
+      "number": 209,
+      "artist": "cierra_(ra-bit)",
+      "occurrences": 7
+    },
+    {
+      "number": 210,
+      "artist": "dk.senie",
+      "occurrences": 7
+    },
+    {
+      "number": 211,
+      "artist": "ichika (ichika87)",
+      "occurrences": 7
+    },
+    {
+      "number": 212,
+      "artist": "kaiaik_(zheliakaina)",
+      "occurrences": 7
+    },
+    {
+      "number": 213,
+      "artist": "qizhu",
+      "occurrences": 7
+    },
+    {
+      "number": 214,
+      "artist": "rurudo",
+      "occurrences": 7
+    },
+    {
+      "number": 215,
+      "artist": "sarcophage",
+      "occurrences": 7
+    },
+    {
+      "number": 216,
+      "artist": "shikisokuzeku76",
+      "occurrences": 7
+    },
+    {
+      "number": 217,
+      "artist": "sos adult",
+      "occurrences": 7
+    },
+    {
+      "number": 218,
+      "artist": "ushikani kassen",
+      "occurrences": 7
+    },
+    {
+      "number": 219,
+      "artist": "yd_(orange_maru)",
+      "occurrences": 7
+    },
+    {
+      "number": 220,
+      "artist": "yyb",
+      "occurrences": 7
+    },
+    {
+      "number": 221,
+      "artist": "diathorn",
+      "occurrences": 7
+    },
+    {
+      "number": 222,
+      "artist": "dkclaude3d",
+      "occurrences": 7
+    },
+    {
+      "number": 223,
+      "artist": "matcha (mattyan)",
+      "occurrences": 7
+    },
+    {
+      "number": 224,
+      "artist": "nonco",
+      "occurrences": 7
+    },
+    {
+      "number": 225,
+      "artist": "taesi",
+      "occurrences": 7
+    },
+    {
+      "number": 226,
+      "artist": "try (lsc)",
+      "occurrences": 7
+    },
+    {
+      "number": 227,
+      "artist": "lightningace",
+      "occurrences": 7
+    },
+    {
+      "number": 228,
+      "artist": "anmi",
+      "occurrences": 6
+    },
+    {
+      "number": 229,
+      "artist": "ke-ta",
+      "occurrences": 6
+    },
+    {
+      "number": 230,
+      "artist": "love_cacao",
+      "occurrences": 6
+    },
+    {
+      "number": 231,
+      "artist": "matanonki",
+      "occurrences": 6
+    },
+    {
+      "number": 232,
+      "artist": "meinoss",
+      "occurrences": 6
+    },
+    {
+      "number": 233,
+      "artist": "nocopyrightgirl",
+      "occurrences": 6
+    },
+    {
+      "number": 234,
+      "artist": "patzzi",
+      "occurrences": 6
+    },
+    {
+      "number": 235,
+      "artist": "sheya",
+      "occurrences": 6
+    },
+    {
+      "number": 236,
+      "artist": "shisantian",
+      "occurrences": 6
+    },
+    {
+      "number": 237,
+      "artist": "starshadowmagician",
+      "occurrences": 6
+    },
+    {
+      "number": 238,
+      "artist": "hagi (ame hagi)",
+      "occurrences": 6
+    },
+    {
+      "number": 239,
+      "artist": "pottsness",
+      "occurrences": 6
+    },
+    {
+      "number": 240,
+      "artist": "kanabun",
+      "occurrences": 6
+    },
+    {
+      "number": 241,
+      "artist": "rhasta",
+      "occurrences": 6
+    },
+    {
+      "number": 242,
+      "artist": "miwano rag",
+      "occurrences": 6
+    },
+    {
+      "number": 243,
+      "artist": "lobelia (saclia)",
+      "occurrences": 6
+    },
+    {
+      "number": 244,
+      "artist": "aoi sakura (seak5545)",
+      "occurrences": 6
+    },
+    {
+      "number": 245,
+      "artist": "ezu_(e104mjd)",
+      "occurrences": 6
+    },
+    {
+      "number": 246,
+      "artist": "ame (uten cancel)",
+      "occurrences": 6
+    },
+    {
+      "number": 247,
+      "artist": "arl",
+      "occurrences": 6
+    },
+    {
+      "number": 248,
+      "artist": "bee (deadflow)",
+      "occurrences": 6
+    },
+    {
+      "number": 249,
+      "artist": "chomoran",
+      "occurrences": 6
+    },
+    {
+      "number": 250,
+      "artist": "cle masahiro",
+      "occurrences": 6
+    }
+  ],
+  "skippedHandleAliases": [
+    "henriku (ahemaru)"
+  ]
+}
