@@ -1,0 +1,18 @@
+{
+  "templates": [
+    "sfw_chibi"
+  ],
+  "model": "nai-diffusion-4-5-full",
+  "steps": 28,
+  "scale": 5,
+  "sampler": "k_dpmpp_2m_sde",
+  "schedule": "karras",
+  "cfgRescale": 0.18,
+  "quality": true,
+  "ucPreset": "Heavy",
+  "seed": 246813579,
+  "width": 512,
+  "height": 640,
+  "positiveExtra": "5::best quality::, masterpiece, very aesthetic, highres, 4k, 8k, clean lineart, detailed shading, soft lighting",
+  "negativeExtra": "bad anatomy, extra limbs, missing limbs, extra fingers, fused fingers, blurry, distorted face, asymmetrical eyes, mismatched head and body, 1.3::worst quality::, 1.3::bad quality::, 1.3::low quality::, 1.3::lowres::, 1.3::displeasing::, 1.3::very displeasing::, 1.2::bad anatomy::, 1.2::bad hands::, 1.2::bad face::, 1.2::bad eyes::, 1.2::ugly::, 1.2::artistic error::, 1.2::fat::, 1.2::chubby::, 1.2::obese::, 1.2::plump::, 1.2::fat face::, 1.2::double chin::, 1.2::thick waist::, 1.2::fat rolls::, 1.2::flabby::, 1.2::flabby arms::, 1.2::saggy belly::, 1.2::love handles::, error, jpeg artifacts, compression artifacts, blurry, noise, grainy, pixelated, aliasing, jaggy lines, dithering, posterization, color banding, smudge, glitch, oversaturated, overexposed, muddy colors, bad shading, bad lineart, bad perspective, bad composition, distorted, deformed, disfigured, malformed, mutation, mutated hands, poorly drawn hands, poorly drawn face, poorly drawn feet, melting face, uneven face, asymmetrical eyes, uneven eyes, cross-eyed, lazy eye, mismatched pupils, missing eyes, extra eyes, bad mouth, deformed mouth, crooked mouth, bad teeth, bad nose, bad ears, malformed ears, extra digits, fewer digits, missing fingers, extra fingers"
+}
